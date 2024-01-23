@@ -2,7 +2,7 @@
 
 🎓 I'm a Graduate Student at Northeastern University with major in Information Systems.
 
-👨‍💻 Completed my 7-month co-op at Constellation Brands 🌠 as a Data Engineer Intern.
+👨‍💻 Completed my 7-month Co-Op at Constellation Brands 🌠 as a Data Engineer Intern.
 
 💻 Worked with Larsen & Toubro Infotech as a Data Engineer for around 2 years.
 
