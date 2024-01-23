@@ -50,7 +50,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## Work Experience
+## 🚀 Work Experience
 
 ### Constellation Brands, Victor NY
 - **Role:** Data Engineering Intern
@@ -62,12 +62,10 @@
 - **Duration:** Oct 2020 - Jul 2022
 - **Achievements:** SaaS product development, Snowflake efficiency, customer management.
 
-## Academic Projects
+## 🚀 My Projects
 
-### Scalable Product Management System
-- **Institution:** Northeastern University
-- **Duration:** Jan 2023 - Apr 2023
-- **Highlights:** Web app development, Infrastructure as Code with Terraform.
+### [3D Scalable Product Management System](https://github.com/Mansi-Dabriwal/aws-infraF, https://github.com/Mansi-Dabriwal/webappF)
+- Web app development, Infrastructure as Code with Terraform.
 
 ### NEU Healthcare Management System
 - **Institution:** Northeastern University
