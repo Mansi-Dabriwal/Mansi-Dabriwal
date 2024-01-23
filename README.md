@@ -67,3 +67,7 @@ Published in Intelligent Sustainable Systems, presented at WorldS4 2021.
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Dabriwal&layout=compact)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnishmMore.AnishmMore">
+</p>
