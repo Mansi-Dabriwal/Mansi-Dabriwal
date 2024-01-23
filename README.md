@@ -65,16 +65,14 @@
 ## 🚀 My Projects
 
 ### [Scalable Product Management System](https://github.com/Mansi-Dabriwal/webappF)
-- Web app development, and Infrastructure as Code with Terraform.
+Web app development, and Infrastructure as Code with Terraform.
 
 ### [NEU Healthcare Management System](https://github.com/Mansi-Dabriwal/NEU-Healthcare-Managment-System)
-- Centralized healthcare system development.
+Centralized healthcare system development.
 
 ## Research Publication
-
-- **Title:** Blockchain Based Decentralized Electronic Voting System
-- **Date:** Jan 2022
-- **Details:** Published in Intelligent Sustainable Systems, presented at WorldS4 2021.
+Blockchain Based Decentralized Electronic Voting System(https://link.springer.com/chapter/10.1007/978-981-16-6309-3_32)
+Published in Intelligent Sustainable Systems, presented at WorldS4 2021.
 
 ## GitHub Stats
 
