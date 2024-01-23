@@ -45,10 +45,13 @@
 ## 🚀 My Projects
 
 ### [Scalable Product Management System](https://github.com/Mansi-Dabriwal/webappF)
-Web app development, and Infrastructure as Code with Terraform.
+Web app development on AWS, and Infrastructure as Code with Terraform.
 
 ### [NEU Healthcare Management System](https://github.com/Mansi-Dabriwal/NEU-Healthcare-Managment-System)
 Centralized healthcare system development.
+
+### [USA Accident Data Analysis](https://github.com/Mansi-Dabriwal/USA-Accident-Data-Analysis)
+Analysis of accidents in USA using various ML modals.
 
 ## [Research Publication](https://link.springer.com/chapter/10.1007/978-981-16-6309-3_32)
 Blockchain Based Decentralized Electronic Voting System
