@@ -42,18 +42,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 🚀 Work Experience
-
-### Constellation Brands, Victor NY
-- **Role:** Data Engineering Intern
-- **Duration:** May 2023 - Dec 2023
-- **Achievements:** ETL pipelines, Snowflake optimization, Tableau dashboards.
-
-### Larsen & Toubro Infotech, Mumbai India
-- **Role:** Data Engineer
-- **Duration:** Oct 2020 - Jul 2022
-- **Achievements:** SaaS product development, Snowflake efficiency, customer management.
-
 ## 🚀 My Projects
 
 ### [Scalable Product Management System](https://github.com/Mansi-Dabriwal/webappF)
