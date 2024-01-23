@@ -60,14 +60,15 @@ Designed to streamline the management and processing of pet insurance claims.
 Blockchain Based Decentralized Electronic Voting System.
 Published in Intelligent Sustainable Systems, presented at WorldS4 2021.
 
-## GitHub Stats
+## My GitHub Stats:
 
 ![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansi-Dabriwal&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mansi-Dabriwal&theme=dark)
 
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Dabriwal&layout=compact)
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnishmMore.AnishmMore">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mansi-Dabriwal.Mansi-Dabriwal">
 </p>
