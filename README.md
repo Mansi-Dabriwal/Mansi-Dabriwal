@@ -55,8 +55,8 @@
 
 ## GitHub Stats
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Mansi-Dabriwal]&show_icons=true&theme=radical)
+![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mansi-Dabriwal&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Mansi-Dabriwal]&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi-Dabriwal&layout=compact)
