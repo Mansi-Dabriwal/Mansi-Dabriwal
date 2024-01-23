@@ -64,13 +64,11 @@
 
 ## 🚀 My Projects
 
-### [Scalable Product Management System]( https://github.com/Mansi-Dabriwal/webappF)
-- Web app development, Infrastructure as Code with Terraform.
+### [Scalable Product Management System](https://github.com/Mansi-Dabriwal/webappF)
+- Web app development, and Infrastructure as Code with Terraform.
 
-### NEU Healthcare Management System
-- **Institution:** Northeastern University
-- **Duration:** Jan 2023 - Apr 2023
-- **Highlights:** Centralized healthcare system development.
+### [NEU Healthcare Management System](https://github.com/Mansi-Dabriwal/NEU-Healthcare-Managment-System)
+- Centralized healthcare system development.
 
 ## Research Publication
 
