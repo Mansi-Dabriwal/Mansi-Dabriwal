@@ -1,18 +1,10 @@
-# Mansi Dabriwal
+## Hola, This is Mansi Dabriwal
 
-**Contact:** 857-370-8868 | dabriwal.m@northeastern.edu | [LinkedIn](linkedin.com/in/mansida)
+🎓 I'm a Graduate Student at Northeastern University with major in Information Systems.
 
-## Education
+👨‍💻 Completed my 7-month coop at Constellation Brands 🌠 as a Data Engineer Intern.
 
-### Northeastern University, Boston MA
-- **Duration:** Sep 2022 - Aug 2024
-- **Degree:** MSc in Information Systems
-- **Courses:** Network Structures, Cloud Computing, Web Design, UX Engineering
-
-### Savitribai Phule Pune University (SPPU), Pune India
-- **Duration:** Aug 2016 - May 2020
-- **Degree:** BE in Information Technology
-- **Courses:** Database Management, Operating Systems, System Programming
+💻 Worked with Larsen & Toubro Infotech as a Data Engineer for around 2 years.
 
 ## 🚀 Skills and Technologies:
 
@@ -70,8 +62,8 @@ Web app development, and Infrastructure as Code with Terraform.
 ### [NEU Healthcare Management System](https://github.com/Mansi-Dabriwal/NEU-Healthcare-Managment-System)
 Centralized healthcare system development.
 
-## Research Publication
-Blockchain Based Decentralized Electronic Voting System(https://link.springer.com/chapter/10.1007/978-981-16-6309-3_32)
+## [Research Publication](https://link.springer.com/chapter/10.1007/978-981-16-6309-3_32)
+Blockchain Based Decentralized Electronic Voting System
 Published in Intelligent Sustainable Systems, presented at WorldS4 2021.
 
 ## GitHub Stats
