@@ -64,7 +64,7 @@
 
 ## 🚀 My Projects
 
-### [3D Scalable Product Management System]( https://github.com/Mansi-Dabriwal/webappF)
+### [Scalable Product Management System]( https://github.com/Mansi-Dabriwal/webappF)
 - Web app development, Infrastructure as Code with Terraform.
 
 ### NEU Healthcare Management System
