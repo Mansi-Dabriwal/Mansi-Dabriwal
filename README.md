@@ -53,6 +53,9 @@ Centralized healthcare system development.
 ### [USA Accident Data Analysis](https://github.com/Mansi-Dabriwal/USA-Accident-Data-Analysis)
 Analysis of accidents in USA using various ML modals.
 
+### [Pet Insurance Management System](https://github.com/Mansi-Dabriwal/Pet_Insurance)
+Designed to streamline the management and processing of pet insurance claims.
+
 ## [Research Publication](https://link.springer.com/chapter/10.1007/978-981-16-6309-3_32)
 Blockchain Based Decentralized Electronic Voting System
 Published in Intelligent Sustainable Systems, presented at WorldS4 2021.
